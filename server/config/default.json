@@ -1,4 +1,5 @@
 {
   "serverPort": 5050,
-  "dbUrl": "mongodb://localhost:27017/cloud-disk"
+  "dbUrl": "mongodb://localhost:27017/cloud-disk",
+  "secretKey": "my-secret-key"
 }
